@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://lh3.googleusercontent.com/-0mdcClKXlgM/AAAAAAAAAAI/AAAAAAAAAAA/xgdLWeAg7pM/s120-c/photo.jpg</item>
+     </string-array>
+
+    <string-array name="credits_titles">
+        <item>Chinmaya Garnaik</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>I am just a beginner</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>Google+|Instagram|Facebook|Website|Twitter</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://www.google.com/+JahirFiquitivaR|http://instagram.com/jahirfiquitiva</item>
+    </string-array>
+</resources>
