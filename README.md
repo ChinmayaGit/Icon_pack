@@ -58,24 +58,35 @@
 
 ### [Jahir Fiquitiva](https://jahir.dev/)
 
-### [github Link](https://github.com/jahirfiquitiva/Blueprint)
+### [Github](https://github.com/jahirfiquitiva/Blueprint)
 
-### [Dashboard Link](https://dashbud.dev/#blueprint)
+### [Dashboard](https://dashbud.dev/#blueprint)
 
 ### [Documentation](https://github.com/jahirfiquitiva/Blueprint/wiki/Get-Started)
 
 ### Steps:
 1: clone or downlaod the zip
+
 2: extract it and run on androidStudio
+
 3: i took a free app icon pack (Whicons - White Icon Pack 24.0.0) 
+
 3.1: Extract icons and files needed from the apk
+
 Note: This is only for education purpose
+
 (Please don't publish the build apk without the consern of Whicons developer) 
+
 4: copy the icons of that pack into (\app\src\main\res\drawable-nodpi)
+
 5: copy the text of appfilter.xml to (\assets\appfilter.xml) and (\res\xml\appfilter.xml)
+
 6: copy the text of drawable.xml to (\assets\drawable.xml) and (\res\xml\drawable.xml)
+
 7: build the apk
+
 if you get any error:
+
 search for these (Icons Blueprint\app\src\main\res):
 ```
 /drawable-anydpi-v26/adaptive_one.xml
