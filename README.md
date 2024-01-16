@@ -58,30 +58,28 @@
 
 ### [Jahir Fiquitiva](https://jahir.dev/)
 
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
+### [github Link](https://github.com/jahirfiquitiva/Blueprint)
 
+### [Dashboard Link](https://dashbud.dev/#blueprint)
 
-Dashboard Link:-
-https://dashbud.dev/#blueprint
+### [Documentation](https://github.com/jahirfiquitiva/Blueprint/wiki/Get-Started)
 
-
-Documentation Link:-
-https://github.com/jahirfiquitiva/Blueprint/wiki/Get-Started
-
-
-1:downlaod the zip
-2:extract it and run on androidStudio
-
-For testing i am able to create an build apk in default code:
-
-1: i took a free app icon pack 
-2: copy the icons of that pack into (\app\src\main\res\drawable-nodpi)
-3: i copy the text of appfilter.xml to (\assets\appfilter.xml) and (\res\xml\appfilter.xml)
-4: i copy the text of drawable.xml to (\assets\drawable.xml) and (\res\xml\drawable.xml)
-
-then i build the apk but i am getting errors:
-{
-dev.jahir.blueprint.app-main-64:/drawable-anydpi-v26/adaptive_two.xml:4: error: resource drawable/adaptive_two_fg (aka dev.jahir.blueprint.app:drawable/adaptive_two_fg) not found.
-error: failed linking file resources.
-}
+### Steps:
+1: clone or downlaod the zip
+2: extract it and run on androidStudio
+3: i took a free app icon pack (Whicons - White Icon Pack 24.0.0) 
+3.1: Extract icons and files needed from the apk
+Note: This is only for education purpose
+(Please don't publish the build apk without the consern of Whicons developer) 
+4: copy the icons of that pack into (\app\src\main\res\drawable-nodpi)
+5: copy the text of appfilter.xml to (\assets\appfilter.xml) and (\res\xml\appfilter.xml)
+6: copy the text of drawable.xml to (\assets\drawable.xml) and (\res\xml\drawable.xml)
+7: build the apk
+if you get any error:
+search for these (Icons Blueprint\app\src\main\res):
+```
+/drawable-anydpi-v26/adaptive_one.xml
+/drawable-anydpi-v26/adaptive_two.xml
+/drawable-anydpi-v26/adaptive_three.xml
+```
+Just delete it.
