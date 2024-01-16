@@ -30,7 +30,7 @@
 
 ### Home / Icons / Apply / Requests
 <p align="center">
-<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/1.png?maxAge=0" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/1.png?maxAge=0" height="350" padding-right:70px/>
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/2.png?maxAge=0" height="350"/>
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/3.png?maxAge=0" height="350"/>
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/4.png?maxAge=0" height="350"/>
@@ -44,7 +44,7 @@
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/6.png?maxAge=0" height="350"/>
 </p>
 
-### / Credits / Settings / Navigation Drawer
+### Credits / Settings / Navigation Drawer
 <p align="center">
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/7.png?maxAge=0" height="350"/>
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/8.png?maxAge=0" height="350"/>
@@ -58,5 +58,39 @@
 
 ### [Jahir Fiquitiva](https://jahir.dev/)
 
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
+### [Github](https://github.com/jahirfiquitiva/Blueprint)
+
+### [Dashboard](https://dashbud.dev/#blueprint)
+
+### [Documentation](https://github.com/jahirfiquitiva/Blueprint/wiki/Get-Started)
+
+### Steps:
+1: clone or downlaod the zip
+
+2: extract it and run on androidStudio
+
+3: i took a free app icon pack (Whicons - White Icon Pack 24.0.0) 
+
+3.1: Extract icons and files needed from the apk
+
+Note: This is only for education purpose
+
+(Please don't publish the build apk without the consern of Whicons developer) 
+
+4: copy the icons of that pack into (\app\src\main\res\drawable-nodpi)
+
+5: copy the text of appfilter.xml to (\assets\appfilter.xml) and (\res\xml\appfilter.xml)
+
+6: copy the text of drawable.xml to (\assets\drawable.xml) and (\res\xml\drawable.xml)
+
+7: build the apk
+
+if you get any error:
+
+search for these (Icons Blueprint\app\src\main\res):
+```
+/drawable-anydpi-v26/adaptive_one.xml
+/drawable-anydpi-v26/adaptive_two.xml
+/drawable-anydpi-v26/adaptive_three.xml
+```
+Just delete it.

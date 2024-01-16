@@ -31,19 +31,19 @@
 
     <!-- These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
-        <item>Github</item>
-        <item>Apps</item>
+        <item>IconShowcase</item>
+        <item>An App</item>
     </string-array>
     <string-array name="home_list_descriptions">
-        <item>Take a look at some other projects</item>
-        <item>Take a look at some other applications</item>
+        <item>It is the old version of this awesome dashboard</item>
+        <item>This is an app</item>
     </string-array>
     <string-array name="home_list_icons">
-        <item>github</item>
-        <item>play_store</item>
+        <item>ic_na_launcher</item>
+        <item>ic_na_launcher</item>
     </string-array>
     <string-array name="home_list_links">
-        <item>https://github.com/ChinmayaGit</item>
+        <item>https://github.com/jahirfiquitiva/Blueprint</item>
         <item>https://play.google.com/store/apps/details?id=com.android.settings</item>
     </string-array>
 </resources>
