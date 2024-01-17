@@ -58,11 +58,11 @@
 
 ### [Jahir Fiquitiva](https://jahir.dev/)
 
-### [Github](https://github.com/jahirfiquitiva/Blueprint)
+ [Github](https://github.com/jahirfiquitiva/Blueprint)
 
-### [Dashboard](https://dashbud.dev/#blueprint)
+ [Dashboard](https://dashbud.dev/#blueprint)
 
-### [Documentation](https://github.com/jahirfiquitiva/Blueprint/wiki/Get-Started)
+ [Documentation](https://github.com/jahirfiquitiva/Blueprint/wiki/Get-Started)
 
 ### Steps:
 1: clone or downlaod the zip
