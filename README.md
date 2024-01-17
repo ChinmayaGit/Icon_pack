@@ -1,7 +1,6 @@
 <img src="https://github.com/ChinmayaGit/Icon_pack/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="192" align="right" hspace="20" />
 
 # Features:
-
 - Material Design dashboard.
 - License Checker.
 - Donations.
@@ -19,17 +18,17 @@
 - Wallpapers include a full-screen viewer with zooming capabilities and detailed info viewer.
 - Credits section.
 - Settings section with these options:
-  - Option to change app theme (Light, Dark, System, AMOLED).
-  - Option to color navigation bar (Lollipop+).
-  - Option to clear app cache.
+	- Option to change app theme (Light, Dark, System, AMOLED).
+	- Option to color navigation bar (Lollipop+).
+	- Option to clear app cache.
 - Tablet layouts.
 - Lots of customizations.
 - Works with Android 5.0 and newer.
 
+
 # Previews
 
 ### Home / Icons / Apply / Requests
-
 <p align="center">
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/1.png?maxAge=0" height="350" padding-right:70px/>
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/2.png?maxAge=0" height="350"/>
@@ -38,7 +37,6 @@
 </p>
 
 ### Wallpapers support (Based on [Frames](https://github.com/jahirfiquitiva/Frames)) / Templates support (Based on [Kuper](https://github.com/Kuper))
-
 <p align="center">
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/3.png?maxAge=0" height="350"/>
 <img src="https://github.com/jahirfiquitiva/Kuper/raw/master/art/4.png" height="350"/>
@@ -47,7 +45,6 @@
 </p>
 
 ### Credits / Settings / Navigation Drawer
-
 <p align="center">
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/7.png?maxAge=0" height="350"/>
 <img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/8.png?maxAge=0" height="350"/>
@@ -61,33 +58,24 @@
 
 ### [Jahir Fiquitiva](https://jahir.dev/)
 
-<<<<<<< HEAD
-[Github](https://github.com/jahirfiquitiva/Blueprint)
-
-[Dashboard](https://dashbud.dev/#blueprint)
-
-[Documentation](https://github.com/jahirfiquitiva/Blueprint/wiki/Get-Started)
-=======
  [Github](https://github.com/jahirfiquitiva/Blueprint)
 
  [Dashboard](https://dashbud.dev/#blueprint)
 
  [Documentation](https://github.com/jahirfiquitiva/Blueprint/wiki/Get-Started)
->>>>>>> 8d4890d5d14a8a73f4c60af7a9d7c1479820e53c
 
 ### Steps:
-
 1: clone or downlaod the zip
 
 2: extract it and run on androidStudio
 
-3: i took a free app icon pack (Whicons - White Icon Pack 24.0.0)
+3: i took a free app icon pack (Whicons - White Icon Pack 24.0.0) 
 
 3.1: Extract icons and files needed from the apk
 
 Note: This is only for education purpose
 
-(Please don't publish the build apk without the consern of Whicons developer)
+(Please don't publish the build apk without the consern of Whicons developer) 
 
 4: copy the icons of that pack into (\app\src\main\res\drawable-nodpi)
 
@@ -100,19 +88,14 @@ Note: This is only for education purpose
 if you get any error:
 
 search for these (Icons Blueprint\app\src\main\res):
-
 ```
 /drawable-anydpi-v26/adaptive_one.xml
 /drawable-anydpi-v26/adaptive_two.xml
 /drawable-anydpi-v26/adaptive_three.xml
 ```
-
 Just delete it.
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 8d4890d5d14a8a73f4c60af7a9d7c1479820e53c
 ### Add new icons:
 
 1: just add the app {component="" drawable="" />} here appfilter.xml (\assets\appfilter.xml) and (\res\xml\appfilter.xml)

@@ -3,6 +3,17 @@
 <resources>
 
     <version>1</version>
+    <category title="New" />
+    <item drawable="a_5g_only"/>
+    <item drawable="anexplorer"/>
+    <item drawable="bugjaeger"/>
+    <item drawable="cheesiano_pizza"/>
+    <item drawable="doc_scanner"/>
+    <item drawable="pod_ai"/>
+    <item drawable="programming_hero"/>
+    <item drawable="spotiflyer"/>
+    <item drawable="pune_metro"/>
+    <item drawable="superset"/>
     <category title="Latest" />
     <item drawable="_52__kards" />
     <item drawable="avast_2021" />
