@@ -94,3 +94,9 @@ search for these (Icons Blueprint\app\src\main\res):
 /drawable-anydpi-v26/adaptive_three.xml
 ```
 Just delete it.
+
+
+Add new icons:
+1: just add the app {component="" drawable="" />} here appfilter.xml (\assets\appfilter.xml) and (\res\xml\appfilter.xml)
+2: just add the app {component="" drawable="" />} here appfilter.xml (\assets\drawable.xml) and (\res\xml\drawable.xml)
+3: add the app icon in drawable-nodpi
