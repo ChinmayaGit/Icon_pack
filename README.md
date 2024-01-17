@@ -61,11 +61,19 @@
 
 ### [Jahir Fiquitiva](https://jahir.dev/)
 
+<<<<<<< HEAD
 [Github](https://github.com/jahirfiquitiva/Blueprint)
 
 [Dashboard](https://dashbud.dev/#blueprint)
 
 [Documentation](https://github.com/jahirfiquitiva/Blueprint/wiki/Get-Started)
+=======
+ [Github](https://github.com/jahirfiquitiva/Blueprint)
+
+ [Dashboard](https://dashbud.dev/#blueprint)
+
+ [Documentation](https://github.com/jahirfiquitiva/Blueprint/wiki/Get-Started)
+>>>>>>> 8d4890d5d14a8a73f4c60af7a9d7c1479820e53c
 
 ### Steps:
 
@@ -101,6 +109,10 @@ search for these (Icons Blueprint\app\src\main\res):
 
 Just delete it.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8d4890d5d14a8a73f4c60af7a9d7c1479820e53c
 ### Add new icons:
 
 1: just add the app {component="" drawable="" />} here appfilter.xml (\assets\appfilter.xml) and (\res\xml\appfilter.xml)
